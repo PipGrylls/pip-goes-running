@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a distinctly average runner for 'someone who runs'.
+Nothing in the blog consitutes advice as it is highly likely I am doing somthing wrong.
+I started this blog after completing my first Ultramarathon and thought having a place to collect my thoughts and track my feelings about training would be a good idea.
+It also spares my friends and family from dealing with my stream of conciouness and desire to talk out my running thoughts.
+I intend to do a weekly log, race/event _rundowns_ (pun thoughrougly intended), and do some webscraping from my garmin/parkrun profile to make the site _run_ smoothly.
+I may also do random posts about running gear that is either new to me or I am retiringing to help me track my thoughts to make better purchasing decisions in the future.
