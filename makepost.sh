@@ -1,6 +1,6 @@
 #! /bin/bash
 
-cd _posts
+cd _posts || exit
 
 CURRENTDATE=$(date +"%Y-%m-%d")
 
