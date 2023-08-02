@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Pip Grylls"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ProfileRunning.jpg"
   bio    : "Simple blog to track my running training and goals"
   links:
     - label: "Website"
