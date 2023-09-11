@@ -3,7 +3,7 @@
 >
 > #### Booked
 >
-> - ~~01/10/2023 Lichfielf Half (Road) - Goal 1:45:00~~ Cancelled by orginiser, considering Rugby Half as alternative.
+> - 01/10/2023 Rugby Half.
 > - 18/11/2023 Peak District South and North 50k ~1000m ascent/decent (Day 1 only, trail/fell) - Goal 7:00:00
 > - 06/07/2024 Eryi the Crossing 56.57k ~3000m ascent/decent (trail/fell) - Goal 8:00:00
 >
@@ -18,4 +18,4 @@
 > ##### 2025
 >
 > - [Switzerland](https://www.jungfrau-marathon.ch/en/Course.html)
-> - [Dartmoor](https://trailevents.co/events/the-dartmoor-way-100k-circular/)
+> - [Dartmoor](https://trailevents.co/events/the-dartmoor-way-100k-circular/) or other 100km
