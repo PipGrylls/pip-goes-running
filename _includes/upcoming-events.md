@@ -17,4 +17,3 @@
 > ##### 2025
 >
 > - [Switzerland](https://www.jungfrau-marathon.ch/en/Course.html)
-> - [Dartmoor](https://trailevents.co/events/the-dartmoor-way-100k-circular/) or other 100km
