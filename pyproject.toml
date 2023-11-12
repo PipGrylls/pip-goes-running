@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pip-makes-running-tools"
+version = "0.1.0"
+description = "Widgets and scripts to help manage running"
+authors = ["PipGrylls <pipgryllsastro@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+gpxpy = "^1.6.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.26.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
