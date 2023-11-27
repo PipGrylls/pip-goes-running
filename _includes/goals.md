@@ -18,9 +18,9 @@
 >     - Do 5000m climb in one race
 >     - Do 10,000m climb in one race
 >   - Position Goals
->     - Come top 50% in my age category on a fell run
+>     - ~~Come top 50% in my age category on a fell run~~
 >     - Come top 25% overall on a fell run
->     - Get to 25% consistantly on runs
+>     - Get to 25% consistently on runs
 > - Other:
 >   - 24 hour race (maybe Snowdon 24)
 >   - Backyard Ultra
@@ -28,5 +28,5 @@
 >     - 18 Laps (75 mile)
 >     - 24 Laps (100 Mile)
 >   - Peaks
->     - Summit all three highest UK peaks in one year on 3 seperate ultras.
+>     - Summit all three highest UK peaks in one year on 3 separate ultras.
 >   - Coventry Way
