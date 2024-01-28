@@ -6,6 +6,6 @@
 > - 5k: 21:04, Sep 30 2023
 > - Parkrun: 21:04, Sep 30 2023 (Coventry)
 > - 10k: 46:54, Oct 16 2023
-> - Half: 1:50:11, Jul 30 2023
-> - Marathon: 5:20:59, Nov 18 2023
+> - Half: 1:49:31, Jan 28 2024
+> - Marathon: 3:57:12, Jan 28 2024
 > - Longest: 61.11km, Jul 09 2023

@@ -5,7 +5,7 @@
 >   - 5k: 21:00
 >   - 10k: 45:00
 >   - Half: 1:45:00
->   - Marathon: 4:00:00
+>   - Marathon: ~~4:00:00~~ 3:45:00
 >   - Ultras:
 >     - 50 mile: 10 hours
 >     - 100 km: 14 hours
