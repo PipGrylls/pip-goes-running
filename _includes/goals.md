@@ -7,7 +7,7 @@
 >   - Half: ~~1:45:00~~ 1:25:00
 >   - Marathon: ~~4:00:00~~ ~~3:45:00~~ 3:10:00
 >   - Ultras:
->     - 50k: 5:30:00
+>     - 50k: ~~5:30:00~~ 5:00:00
 >     - 50 mile: 10 hours
 > - Trail Ultras:
 >   - Distance goals:
@@ -16,8 +16,8 @@
 >     - Complete a 100 mile (Postponed for the foreseeable)
 >   - Position Goals
 >     - ~~Come top 50% in my age category on a fell run~~
->     - Come top 25% overall on a fell run 
->     - Get to 25% consistently on runs (Getting there)
+>     - Come top 25% overall on a fell run
+>     - ~~Get to 25% consistently on runs~~
 > - Other:
 >   - 24 hour race
 >   - Backyard Ultra
